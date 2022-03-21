@@ -10,5 +10,6 @@ public AbcMobileShop(int discount)
 	this();
 	this.discount=discount;
 System.out.println("HO"+this.discount);
+System.out.println("Thank you");
 }	
 }
